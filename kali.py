@@ -1,1 +1,1 @@
-print("ddsa")
+print("clone qilibdi")
