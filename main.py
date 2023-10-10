@@ -1,10 +1,10 @@
-# sonlar1 = input("birinchi son kiriting ")
-# sonlar2 = input("ikkinchi son kiriting ")
-# if sonlar1== sonlar2:
-#     print("Sonlar teng?")
-# else:
-#     print("Sonlar bir birga teng emas ?")
-#
+sonlar1 = input("birinchi son kiriting ")
+sonlar2 = input("ikkinchi son kiriting ")
+if sonlar1== sonlar2:
+    print("Sonlar teng?")
+else:
+    print("Sonlar bir birga teng emas ?")
+
 
 # son=10
 # if son<0:
